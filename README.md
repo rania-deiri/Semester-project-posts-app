@@ -1,6 +1,6 @@
 # My Portifolio
 
-![postsapp](https://github.com/rania-deiri/Semester-project-posts-app/assets/61733983/8ce304ab-bb0f-4a1e-bcf5-1d669c8d0310)
+![postsapp](https://github.com/rania-deiri/Semester-project-posts-app/assets/61733983/116fb155-6d2a-4a15-a9c8-a64606352d1e)
 
 ## Description
 Project For Adding/Editing/Showing And Deleteing Posts using React And Wordpress.
