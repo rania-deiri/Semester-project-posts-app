@@ -24,13 +24,14 @@ Project For Adding/Editing/Showing And Deleteing Posts using React And Wordpress
 ```bash
 git clone (https://github.com/rania-deiri/Semester-project-posts-app.git)
 ```
-1- Install xampp
-2- Place project in htdocs inside xampp path
-3- Open Project using vs code
-4- Run npm install
-5- Run npm start
-6- Login with username: admin 
-password: admin123
+2. Install xampp
+3. Place project in htdocs inside xampp path
+4. Open Project using vs code
+5. Run npm install
+6. Run npm start
+7. Login with
+    username: admin 
+    password: admin123
 
 
 ## Contact
